@@ -1,0 +1,1 @@
+export const shortAdd = (Address) => `${Address.slice(0, 5)}...${Address.slice(-4)}`;
